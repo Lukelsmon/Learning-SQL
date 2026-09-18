@@ -1,0 +1,15 @@
+# Arquivos de bancos de dados locais (Ex: SQLite)
+*.db
+*.sqlite
+*.sqlite3
+*.log
+
+# Configurações de IDEs e Editores
+.idea/
+.vscode/
+.dbeaver/
+*.dbeaver-data-sources.xml
+
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db
