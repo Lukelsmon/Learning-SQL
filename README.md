@@ -46,7 +46,7 @@
 
 <div align="right">
     <p> 
-        Bem Já Que É O Caso, Saudações, Meu Nome é Q5U4EX7YY2E9N . . . Mas Queridos Como Vocês Podem Só Me Chamar de Rainha.
+        Por via das dúvidas. Saudações, Meu Nome é Q5U4EX7YY2E9N . . . Mas Queridos Como Vocês Podem Só Me Chamar de Rainha.
         <img src="https://media.tenor.com/0oXg4v6_egcAAAAi/deltarune-queen.gif" width="90" height=120" valign="middle">
         Agora, Sem Mais Enrolações. Vamos Aprender SQL Até Seu Devido Domínio.
     </p>
