@@ -6,41 +6,54 @@
     Olá a todos, este aqui é um repositório destinado a aprender SQL e poder praticar.
 </h2>
 
-<h3> Afirmado isto, é Houra de Irmos a Praticahn </h3>
+<br><br>
 
-<br>
+<p align="right"> Ah querido, por favor não esqueça da minha presença aqui! </p>
 
-> O que foi isso? Eu não digitei ass-
+<div align="right">
 
-<br>
+<img align="right" src="https://media.tenor.com/dJhwYAQDcuMAAAAi/deltarune-queen-3d-model.gif" width="150">
 
-<p> Silêncio meu sinhor, este repositórinhum agora está sob minha custódia.
+<p> Hohohoho! </p>
 
-<div align="center">
-    <img src="https://media.tenor.com/TpJG7tPWlCkAAAAi/rouxls-kaard-rouxls.gif" width="120">
-    <p> Olá caruh viajantih
-    <img src="https://i.redd.it/z2ix0deftmof1.png" width="35" height="35" valign="middle"> </p>
 </div>
 
-<br>
+<br><br><br><br>
 
-> Aí você não pod-
-
-<br>
-
-<div>
-    <p> Oh minha nossa, o que seria aquiluh?
-    <img align="left" src="https://media.tenor.com/ivxmiRsQMAcAAAAi/rouxls-kaard-deltarune.gif" width="50" height="60" valign="middle"> </p>
-
-<br>
-
-> Ei Não! - *Narrador saiu do chat*
+<div align="left">
+    <p>
+    <img src="https://media.tenor.com/2bgOlAkJim4AAAAi/queen-deltarune-deltarune.gif" width="80" height="80" valign="middle">
+    Oh, Vejo Que Neste Repositório Você Está Aprendendo SQL? Se Me Permite Dizer Querido, Eu Sou Craque Nisto.
+    <img src="https://ih1.redbubble.net/image.2786238226.4446/raf,360x360,075,t,fafafa:ca443f4786.jpg" width="40" height="40" valign="middle">
+    </p>
 </div>
 
 <br><br>
 
-<p align="center"> Muito Bem agora que tehmos o tempuh somenti para nózi. Vamus juntus aprenderr SQL sim?
-<img src="https://media1.tenor.com/m/bHSijT9NUYUAAAAC/rouxls-kaard-deltarune.gif" width="100">
+> Ah, Rainha. Bom ter sua presença aqui (Estou me questionando como você ainda não tentou me hackear), por favor se apresente para os leitores que não a conheçam.
+
+<br><br>
+
+<div align="center">
+    <p> Como Assim Não Me Conhecem? 
+    <img src="https://ih1.redbubble.net/image.2858415899.3494/bg,f8f8f8-flat,750x,075,f-pad,750x1000,f8f8f8.u1.jpg" width="70" height="70" valign="middle">
+    Calculando Probabilidades. . . . . Totalmente Improvável. 
+    </p>
+</div>
+
+<br><br>
+
+
+<div align="right">
+    <p> 
+        Bem Já Que É O Caso, Saudações, Meu Nome é Q5U4EX7YY2E9N . . . Mas Queridos Como Vocês Podem Só Me Chamar de Rainha.
+        <img src="https://media.tenor.com/0oXg4v6_egcAAAAi/deltarune-queen.gif" width="90" height=120" valign="middle">
+        Agora, Sem Mais Enrolações. Vamos Aprender SQL Até Seu Devido Domínio.
+    </p>
+</div>
 
 ---
+
+
+
 
